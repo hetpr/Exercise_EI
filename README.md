@@ -1,4 +1,4 @@
-# PDEU – Campus Placements 2026 (Educational Initiatives)
+# Educational Initiatives Campus Placement
 ## Coding Assignment Submission 
 **Candidate:** Het Prajapati 
 **Batch:** CE22 
@@ -6,7 +6,7 @@
 ---
 
 ## Assignment Overview
-This repository contains solutions to the **Coding Assignment** given as part of the **Educational Initiatives (Ei) – Campus Placement Process 2026**.  
+This repository contains solutions to the **Coding Assignment** given as part of the **Educational Initiatives (EI) – Campus Placement Process 2026**.  
 The assignment was structured into two main exercises:  
 
 1. **Exercise 1 – Design Pattern Demonstrations**  
