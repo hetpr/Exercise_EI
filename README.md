@@ -1,7 +1,6 @@
 # Educational Initiatives Campus Placement
 ## Coding Assignment Submission 
-**Candidate:** Het Prajapati 
-**Batch:** CE22 
+**Candidate:** Het Prajapati (22BCP039)
 
 ---
 
