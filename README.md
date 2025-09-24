@@ -6,8 +6,8 @@
 
 ## Assignment Overview
 This repository contains solutions to the **Coding Assignment** given as part of the **Educational Initiatives (EI) – Campus Placement Process 2026**.  
-The assignment was structured into two main exercises:  
 
+The assignment was structured into two main exercises:
 1. **Exercise 1 – Design Pattern Demonstrations**  
 2. **Exercise 2 – Mini Project (Problem 5: Real-time Chat Application)**  
 
