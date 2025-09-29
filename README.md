@@ -71,11 +71,3 @@ This corresponds to **Problem 5** of the given assignment.
     │   ├── ClientAdapter.java
     │   ├── ConsoleClientAdapter.java
     │   └── WebSocketClientAdapter.java
-
----
-
-### How to Run
-1. Clone this repository.  
-2. Open in IntelliJ IDEA or any Java IDE.  
-3. Run `ChatApp.java` from `com.example.chat.app`.  
-4. Follow the menu to create/join chat rooms and exchange messages.
